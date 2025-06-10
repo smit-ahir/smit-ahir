@@ -12,21 +12,6 @@
 
 ---
 
-<!-- Commit Heatmap & Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smit-ahir&theme=onedark&margin-w=8&margin-h=8&column=7" alt="trophy" width="100%"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smit-ahir&bg_color=232526&color=38bdf8&line=38bdf8&point=fff&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
-</p>
-
----
-
 ## ⚡ About Me
 
 ```dart
