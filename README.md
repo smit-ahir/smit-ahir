@@ -27,5 +27,5 @@ I'm a passionate Flutter developer with internship experience, focused on buildi
 
 ## 📬 Contact Me
 - 📧 Email: smitsorathiya71@gmail.com
-- 🔗 [LinkedIn]([www](https://linkedin.com/in/smit-ahir)
+- 🔗 [LinkedIn](https://linkedin.com/in/smit-ahir)
 - 🔗 [GitHub](https://github.com/smit-ahir)
