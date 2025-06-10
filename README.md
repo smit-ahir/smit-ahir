@@ -21,7 +21,7 @@ I'm a passionate Flutter developer with internship experience, focused on buildi
 - 🔗 [GitHub Repo](https://github.com/yourusername/studymate)
 
 ## 💼 Experience
-### Flutter Developer Intern – XYZ Company
+### Flutter Developer Intern – Innobrain Technologies
 - Built UI for core features in a learning app
 - Used Firebase Auth, Firestore, and state management with Provider
 
