@@ -26,6 +26,6 @@ I'm a passionate Flutter developer with internship experience, focused on buildi
 - Used Firebase Auth, Firestore, and state management with Provider
 
 ## 📬 Contact Me
-- 📧 Email: yourname@example.com
+- 📧 Email: smitsorathiya71@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/smit-ahir)
 - 🔗 [GitHub](https://github.com/smit-ahir)
