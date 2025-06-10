@@ -27,5 +27,5 @@ I'm a passionate Flutter developer with internship experience, focused on buildi
 
 ## 📬 Contact Me
 - 📧 Email: yourname@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🔗 [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](www.linkedin.com/in/smit-ahir)
+- 🔗 [GitHub](https://github.com/smit-ahir)
