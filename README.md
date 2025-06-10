@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Smit Bambhaniya – Flutter Developer
 
-<!--
-**smit-ahir/smit-ahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Flutter developer with internship experience, focused on building fast, responsive, and clean mobile apps.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Dart, Java, Kotlin, Python
+- **Frameworks:** Flutter, Firebase, Provider, BLoC
+- **Tools:** Git, Android Studio, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Featured Projects
+
+### 1. BudgetTracker App
+- A personal expense tracker with charts and categories
+- **Tech Used:** Flutter, Firebase, Provider
+- 🔗 [GitHub Repo](https://github.com/yourusername/budget-tracker)
+- 📸 [Screenshots](link) | 🎥 [Demo Video](link)
+
+### 2. StudyMate
+- A student task planner with notifications and deadlines
+- **Tech Used:** Flutter, SQLite, Notification API
+- 🔗 [GitHub Repo](https://github.com/yourusername/studymate)
+
+## 💼 Experience
+### Flutter Developer Intern – XYZ Company
+- Built UI for core features in a learning app
+- Used Firebase Auth, Firestore, and state management with Provider
+
+## 📬 Contact Me
+- 📧 Email: yourname@example.com
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [GitHub](https://github.com/yourusername)
